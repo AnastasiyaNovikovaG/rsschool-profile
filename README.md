@@ -1,2 +1,2 @@
 Anastasiya Novikova
-HTML CSS Basics: https://www.codecademy.com/users/NastyaNovikovaZ/achievements
+HTML CSS Basics: https://www.codecademy.com/users/AnastasiyaNovikovaZ/achievements
